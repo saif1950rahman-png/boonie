@@ -1,0 +1,16 @@
+{
+  "name": "Boonies Bakery Co",
+  "short_name": "Boonies",
+  "description": "Scratch-made cakes, cookies and sweet treats in Kilgore, TX.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "lang": "en-US",
+  "background_color": "#f6f1ea",
+  "theme_color": "#f6f1ea",
+  "icons": [
+    { "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
